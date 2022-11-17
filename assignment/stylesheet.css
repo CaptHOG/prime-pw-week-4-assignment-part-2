@@ -4,6 +4,8 @@ header {
 
 div {
     text-align: center;
+    border-style: solid;
+    border-width: thin;
 }
 
 h2 {
